@@ -1,4 +1,4 @@
----
+--- 
 - http://*.bandcamp.com/
 - http://*.bandcamp.com/album/*
 - http://*.bandcamp.com/track/*
@@ -19,6 +19,9 @@
 - http://*.dipdive.com/media/*
 - http://*.dipdive.com/v/*
 - http://*.kinomap.com/*
+- http://*.linkedin.com/in/*
+- http://*.linkedin.com/pub/*
+- http://*.looplogic.com/*
 - http://*.posterous.com/*
 - http://*.smugmug.com/*
 - http://*.smugmug.com/*#*
@@ -28,6 +31,9 @@
 - http://*.tumblr.com/post/*
 - http://*.twitrpix.com/*
 - http://*.uservoice.com/*/suggestions/*
+- http://*.wi.st/*
+- http://*.wikipedia.org/wiki/*
+- http://*.wistia.com/*
 - http://*.youtube.com/*#*/*
 - http://*.youtube.com/playlist*
 - http://*.youtube.com/profile*
@@ -55,7 +61,7 @@
 - http://*twitch.tv/*
 - http://*twitch.tv/*/b/*
 - http://*twitvid.com/*
-- http://*viddler.com/explore/*/videos/*
+- http://*viddler.com/v/*
 - http://*yfrog.*/*
 - http://*youtube.com/watch*
 - http://23hq.com/*/photo/*
@@ -110,6 +116,7 @@
 - http://confreaks.net/videos/*
 - http://crocodoc.com/*
 - http://crunchbase.com/*/*
+- http://d.pr/i/*
 - http://dailybooth.com/*/*
 - http://dipdive.com/media/*
 - http://dipdive.com/member/*/media/*
@@ -136,13 +143,14 @@
 - http://freemusicarchive.org/music/*
 - http://funnyordie.com/m/*
 - http://funnyordie.com/videos/*
-- http://gametrailers.com/video/*
+- http://gametrailers.com/video*
 - http://gist.github.com/*
 - http://godtube.com/featured/video/*
 - http://godtube.com/watch/*
 - http://google.com/buzz/*
 - http://google.com/buzz/*/*/*
 - http://google.com/profiles/*
+- http://gopollgo.com/*
 - http://graphicly.com/*/*/*
 - http://grindtv.com/*/video/*
 - http://grooveshark.com/*
@@ -168,8 +176,11 @@
 - http://investigation.discovery.com/videos/*
 - http://issuu.com/*/docs/*
 - http://itunes.apple.com/*
+- http://jibjab.com/view/*
 - http://lightbox.com/*
 - http://link.brightcove.com/services/player/bcpid*
+- http://linkedin.com/in/*
+- http://linkedin.com/pub/*
 - http://liveleak.com/view?*
 - http://lockerz.com/s/*
 - http://logotv.com/video/*
@@ -200,6 +211,7 @@
 - http://my.opera.com/*/albums/showpic.dml?album=*&picture=*
 - http://myloc.me/*
 - http://nzonscreen.com/title/*
+- http://open.spotify.com/*
 - http://ow.ly/i/*
 - http://pastebin.com/*
 - http://pastie.org/*
@@ -210,7 +222,6 @@
 - http://picasaweb.google.com*/*/*
 - http://picasaweb.google.com*/*/*#*
 - http://picasaweb.google.com*/lh/photo/*
-- http://picplz.com/*
 - http://pics.brizzly.com/*.jpg
 - http://pikchur.com/*
 - http://ping.fm/p/*
@@ -244,6 +255,7 @@
 - http://sendables.jibjab.com/view/*
 - http://share.ovi.com/media/*/*
 - http://shitmydadsays.com/notice/*
+- http://showme.com/sh/*
 - http://siteanalytics.compete.com/*
 - http://skitch.com/*/*/*
 - http://slidesha.re/*
@@ -258,6 +270,7 @@
 - http://soundcloud.com/groups/*
 - http://speakerdeck.com/u/*/p/*
 - http://sports.yahoo.com/video/*
+- http://spreecast.com/events/*
 - http://statsheet.com/*/teams/*/*
 - http://statsheet.com/statplot/charts/*/*/*/*
 - http://statsheet.com/statplot/charts/e/*
@@ -265,9 +278,6 @@
 - http://storify.com/*/*
 - http://streetfire.net/video/*.htm*
 - http://teachertube.com/viewVideo.php*
-- http://techcrunch.tv/*/watch*
-- http://techcrunch.tv/show/*/*
-- http://techcrunch.tv/watch*
 - http://theonion.com/video/*
 - http://threadbanger.com/*/episode/*
 - http://threadbanger.com/episode/*
@@ -316,7 +326,9 @@
 - http://washingtonpost.com/wp-dyn/*/video/*/*/*/*
 - http://wh.gov/photos-and-video/video/*
 - http://wh.gov/video/*
+- http://wi.st/*
 - http://wirewax.com/*
+- http://wistia.com/*
 - http://wordpress.tv/*/*/*/*/
 - http://worldstarhiphop.com/videos/video*.php?v=*
 - http://www.23hq.com/*/photo/*
@@ -338,13 +350,13 @@
 - http://www.boston.com/*video*
 - http://www.boston.com/video*
 - http://www.bravotv.com/*/*/videos/*
-- http://www.break.com/*/*
 - http://www.canalplus.fr/*
 - http://www.channelfrederator.com/*/episode/*
 - http://www.channelfrederator.com/episode/*
 - http://www.clikthrough.com/theater/video/*
 - http://www.clipfish.de/*/*/video/*
 - http://www.clipshack.com/Clip.aspx?*
+- http://www.clipsyndicate.com/video/playlist/*/*
 - http://www.cnbc.com/id/*/play/1/video/*
 - http://www.cnbc.com/id/*?*video*
 - http://www.cnn.com/video/*
@@ -371,7 +383,7 @@
 - http://www.freemusicarchive.org/music/*
 - http://www.funnyordie.com/m/*
 - http://www.funnyordie.com/videos/*
-- http://www.gametrailers.com/video/*
+- http://www.gametrailers.com/video*
 - http://www.globalpost.com/dispatch/*
 - http://www.globalpost.com/video/*
 - http://www.godtube.com/featured/video/*
@@ -380,6 +392,7 @@
 - http://www.google.com/buzz/*
 - http://www.google.com/buzz/*/*/*
 - http://www.google.com/profiles/*
+- http://www.gopollgo.com/*
 - http://www.grindtv.com/*/video/*
 - http://www.guardian.co.uk/*/video/*/*/*/*
 - http://www.hark.com/clips/*
@@ -468,6 +481,7 @@
 - http://www.shopstyle.com/action/apiVisitRetailer*
 - http://www.shopstyle.com/action/viewLook*
 - http://www.shopstyle.com/browse*
+- http://www.showme.com/sh/*
 - http://www.slideshare.net/*/*
 - http://www.slideshare.net/mobile/*/*
 - http://www.snotr.com/video/*
@@ -475,6 +489,7 @@
 - http://www.some.ly/*
 - http://www.someecards.com/*/*
 - http://www.spike.com/video/*
+- http://www.spreecast.com/events/*
 - http://www.streetfire.net/video/*.htm*
 - http://www.studivz.net/*
 - http://www.studivz.net/Gadgets/Info/*
@@ -546,12 +561,16 @@
 - http://xkcd.com/*
 - http://youtu.be/*
 - https://*.crocodoc.com/*
+- https://*.looplogic.com/*
+- https://*.wi.st/*
+- https://*.wistia.com/*
 - https://*.youtube.com/v/*
 - https://*youtube.com/watch*
 - https://app.wistia.com/embed/medias/*
 - https://crocodoc.com/*
 - https://foursquare.com/*
 - https://ganxy.com/*
+- https://gist.github.com/*
 - https://img.skitch.com/*
 - https://itunes.apple.com/*
 - https://mobile.twitter.com/*/status/*
@@ -565,6 +584,9 @@
 - https://twitter.com/*/statuses/*/photo/*
 - https://urtak.com/clr/*
 - https://urtak.com/u/*
+- https://vimeo.com/*
+- https://wi.st/*
+- https://wistia.com/*
 - https://www.facebook.com/photo.php*
 - https://www.facebook.com/v/*
 - https://www.facebook.com/video/video.php*
@@ -574,3 +596,4 @@
 - https://www.twitter.com/*/status/*/photo/*
 - https://www.twitter.com/*/statuses/*
 - https://www.twitter.com/*/statuses/*/photo/*
+- https://www.vimeo.com/*
